@@ -1,0 +1,62 @@
+{
+    "users": [
+      {
+        "name": "Tomato",
+        "email": "df@gmail.com",
+        "password": "12",
+        "posts": [],
+        "_id": 1
+      },
+      {
+        "name": "bread",
+        "email": "fe@feathersoft.com",
+        "password": "12",
+        "posts": [],
+        "_id": 2
+      },
+      {
+        "name": "Productionserver Alpha",
+        "email": "h@gmail.com",
+        "password": "12",
+        "posts": [],
+        "_id": 3
+      },
+      {
+        "name": "df",
+        "email": "h@fh",
+        "password": "12",
+        "posts": [],
+        "_id": 4
+      },
+      {
+        "name": "f",
+        "email": "12@gm",
+        "password": "12",
+        "posts": [],
+        "_id": 5
+      }
+    ],
+    "posts": [
+      {
+        "postTitle": "1",
+        "postText": "1",
+        "byUser": 2,
+        "showMore": false,
+        "_id": 1,
+        "likes": [],
+        "comments": [
+          {
+            "userId": 1,
+            "username": "Tomato",
+            "comment": "11"
+          },
+          {
+            "userId": 1,
+            "username": "Tomato",
+            "comment": "11f"
+          }
+        ],
+        "date": "2023-05-31T03:49:20.384Z"
+      }
+    ]
+  }
